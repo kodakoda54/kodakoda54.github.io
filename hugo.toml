@@ -1,8 +1,8 @@
-baseurl = "https://example.com"
+baseurl = "https://kodakoda54.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Hugo Theme Dream"
-theme = "hugo-theme-dream"
+title = "Traveling Blog"
+theme = "dream"
 
 [params]
 zenMode = true
