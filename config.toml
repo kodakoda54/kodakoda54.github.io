@@ -1,4 +1,18 @@
 baseURL = 'https://kodakoda54.github.io/'
 languageCode = 'en-us'
 title = 'Traveling Blog'
-theme = "dream"
+theme = "linkshrubbery"
+relativeURLs = true
+enableEmoji = true
+enableRobotsTXT = false
+copyright = "&copy; 2020, Traveler"
+disableKinds = ["taxonomy", "term"]
+
+# Configuration Features
+[params]
+  description = "Traveler Blog" 
+  avatar = "/images/avatar.jpg" 
+  logo = "/images/travel.png"     
+  [params.style]                
+    backgroundColor = "#f8f9fa"
+    fontColor = "#212529"
