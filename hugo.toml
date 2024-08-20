@@ -1,0 +1,22 @@
+baseurl = "https://example.com"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+
+[params]
+zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+backgroundImage = "img/bg.jpg"
+
+author = "Dream"
+description = ""
+avatar = "img/avatar.png"
+headerTitle = "Hugo Theme Dream"
+
+email = "travel@travel.com"
+
+siteStartYear = 2020
